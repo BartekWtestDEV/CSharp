@@ -1,0 +1,10 @@
+c:\users\bartek\source\repos\Bazy_Danych\Tools\bin\Debug\Tools.exe.config
+c:\users\bartek\source\repos\Bazy_Danych\Tools\bin\Debug\Tools.exe
+c:\users\bartek\source\repos\Bazy_Danych\Tools\bin\Debug\Tools.pdb
+c:\users\bartek\source\repos\Bazy_Danych\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+c:\users\bartek\source\repos\Bazy_Danych\Tools\obj\Debug\Tools.exe
+c:\users\bartek\source\repos\Bazy_Danych\Tools\obj\Debug\Tools.pdb
+c:\users\bartek\source\repos\Bazy_Danych\Tools\bin\Debug\EPPlus.dll
+c:\users\bartek\source\repos\Bazy_Danych\Tools\bin\Debug\EPPlus.xml
+c:\users\bartek\source\repos\Bazy_Danych\Tools\obj\Debug\Tools.csprojAssemblyReference.cache
+c:\users\bartek\source\repos\Bazy_Danych\Tools\obj\Debug\Tools.csproj.CopyComplete

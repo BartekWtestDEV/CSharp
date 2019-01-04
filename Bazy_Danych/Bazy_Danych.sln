@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bazy_Danych", "Bazy_Danych\Bazy_Danych.csproj", "{F3356E71-3E95-49A3-A50C-8CE0209BF44F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{39CD208B-C371-4CDE-B4A0-6146DE5DAECF}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{9BFAEFB3-8741-43A2-AE38-41C725F45641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3356E71-3E95-49A3-A50C-8CE0209BF44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3356E71-3E95-49A3-A50C-8CE0209BF44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3356E71-3E95-49A3-A50C-8CE0209BF44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3356E71-3E95-49A3-A50C-8CE0209BF44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BFAEFB3-8741-43A2-AE38-41C725F45641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFAEFB3-8741-43A2-AE38-41C725F45641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFAEFB3-8741-43A2-AE38-41C725F45641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFAEFB3-8741-43A2-AE38-41C725F45641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5EF7106-8769-42A3-A788-BC43236FF405}
+	EndGlobalSection
+EndGlobal
