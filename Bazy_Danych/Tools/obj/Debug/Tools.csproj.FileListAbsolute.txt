@@ -8,3 +8,12 @@ c:\users\bartek\source\repos\Bazy_Danych\Tools\bin\Debug\EPPlus.dll
 c:\users\bartek\source\repos\Bazy_Danych\Tools\bin\Debug\EPPlus.xml
 c:\users\bartek\source\repos\Bazy_Danych\Tools\obj\Debug\Tools.csprojAssemblyReference.cache
 c:\users\bartek\source\repos\Bazy_Danych\Tools\obj\Debug\Tools.csproj.CopyComplete
+D:\CSharp\CSharp\Bazy_Danych\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+D:\CSharp\CSharp\Bazy_Danych\Tools\obj\Debug\Tools.exe
+D:\CSharp\CSharp\Bazy_Danych\Tools\obj\Debug\Tools.pdb
+D:\CSharp\CSharp\Bazy_Danych\Tools\bin\Debug\Tools.exe.config
+D:\CSharp\CSharp\Bazy_Danych\Tools\bin\Debug\Tools.exe
+D:\CSharp\CSharp\Bazy_Danych\Tools\bin\Debug\Tools.pdb
+D:\CSharp\CSharp\Bazy_Danych\Tools\bin\Debug\EPPlus.dll
+D:\CSharp\CSharp\Bazy_Danych\Tools\bin\Debug\EPPlus.xml
+D:\CSharp\CSharp\Bazy_Danych\Tools\obj\Debug\Tools.csproj.ResolveComReference.cache

@@ -8,3 +8,7 @@ c:\users\bartek\source\repos\Bazy_Danych\Bazy_Danych\obj\Debug\Bazy_Danych.cspro
 c:\users\bartek\source\repos\Bazy_Danych\Bazy_Danych\obj\Debug\Bazy_Danych.csproj.CoreCompileInputs.cache
 c:\users\bartek\source\repos\Bazy_Danych\Bazy_Danych\obj\Debug\Bazy_Danych.exe
 c:\users\bartek\source\repos\Bazy_Danych\Bazy_Danych\obj\Debug\Bazy_Danych.pdb
+D:\CSharp\CSharp\Bazy_Danych\Bazy_Danych\bin\Debug\Bazy_Danych.exe.config
+D:\CSharp\CSharp\Bazy_Danych\Bazy_Danych\obj\Debug\Bazy_Danych.exe
+D:\CSharp\CSharp\Bazy_Danych\Bazy_Danych\obj\Debug\Bazy_Danych.pdb
+D:\CSharp\CSharp\Bazy_Danych\Bazy_Danych\obj\Debug\Bazy_Danych.csprojResolveAssemblyReference.cache
